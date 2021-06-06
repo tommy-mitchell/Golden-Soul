@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad7175d3bdc1a644862c06d3be59c4c, type: 3}
+  m_Name: Sword Audio Sources
+  m_EditorClassIdentifier: 
+  _onSwordStick: {fileID: 8300000, guid: ae6c710c52532a64d8114edd7815c181, type: 3}
+  _onSwordThrow: {fileID: 8300000, guid: a368d045258005a4089de65790ce51da, type: 3}
+  _onSwordSwing: {fileID: 8300000, guid: b1a8aa9aa30a5c9489254cbc8b2af365, type: 3}
+  _onSwordRecall: {fileID: 8300000, guid: c829ef8e9a4d3ce4d862aeca65282f94, type: 3}
+  _swordInAir: {fileID: 0}
+  _respawnHitSound: {fileID: 8300000, guid: 58153605b7b13de42b40b61ef932c7b5, type: 3}
+  _waterHitSound: {fileID: 8300000, guid: 26c92082d69b6b94bb1d433157cad4a7, type: 3}
+  _spikesHitSound: {fileID: 8300000, guid: f3cc1e3b237b644428a7f89ebef00ebe, type: 3}

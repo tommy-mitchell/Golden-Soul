@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Checkpoint
+  - Sword
+  - Arrow
+  - Ground
+  - MapCam
+  - Heart
+  - Cat
+  - Door
+  - MovingPlatform
+  - BossHeart
+  - Boss
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Sword
+  - Player
+  - Arrow
+  - Archer
+  - Respawn
+  - Grates
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 80125067
+    locked: 0
+  - name: Weapon
+    uniqueID: 3098631063
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1265461019
+    locked: 0

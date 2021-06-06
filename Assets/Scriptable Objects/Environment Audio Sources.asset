@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a1c046ee7056044a3e3a7c630e76b7, type: 3}
+  m_Name: Environment Audio Sources
+  m_EditorClassIdentifier: 
+  _onDoorOpen: {fileID: 8300000, guid: 92179ef809200d942aa890dd31d2f766, type: 3}
+  _onHeartPickup: {fileID: 8300000, guid: 2c66da110daeec643af73e31fd2ad46b, type: 3}
+  _onKeyPickup: {fileID: 8300000, guid: de804a8321ccdc64f999fb58b713633f, type: 3}
+  _ambientNoises:
+  - {fileID: 8300000, guid: 72f7821208b172741b1be7a793f508ae, type: 3}
+  - {fileID: 8300000, guid: b47087f7029d8c340b27b77e02dc2508, type: 3}
+  - {fileID: 8300000, guid: f8b7bbb93681dde4097f1f9feacb8c50, type: 3}
+  - {fileID: 8300000, guid: 7c05f7c6ccf9d7c43b451a53f9372f83, type: 3}
+  - {fileID: 8300000, guid: fddd7e6dd88919e46811be0499619a69, type: 3}
+  - {fileID: 8300000, guid: 9fcd1dba159b5c84aafd6ee747c32848, type: 3}
+  - {fileID: 8300000, guid: 8dd6c473d52650f4e99b8bdd3d844758, type: 3}
+  - {fileID: 8300000, guid: d4d779d6398492743917075a632a7fc8, type: 3}
+  - {fileID: 8300000, guid: 4178d8230fbc8c84c97d6be66504205f, type: 3}
+  - {fileID: 8300000, guid: 1ed8ed8a49dfda4499914658335fd288, type: 3}
+  - {fileID: 8300000, guid: 23437936fe3469b43b0b09dab81a150a, type: 3}
